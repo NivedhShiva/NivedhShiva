@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nivedh+Shiva!;2nd+Year+EC+Student+at+CUSAT" alt="Typing SVG" />
+</p>
 
-<!--
-**NivedhShiva/NivedhShiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year Electronics & Communication Student at CUSAT  
+Passionate about electronics, tech, and building cool things.
 
-Here are some ideas to get you started:
+## Languages & Technologies
+- Python
+- C
+- C++
+- Assembly
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Drone technology
+- Trading and markets
+
+---
+
+Thanks for stopping by!  
+Feel free to connect if you share similar interests or want to collaborate on something awesome.
