@@ -11,6 +11,10 @@ Passionate about electronics, tech, and building cool things.
 - C++
 - Assembly
 - JavaScript
+- Verilog
+- Proteus
+- Matlab
+  
 
 ## Interests
 - Drone technology
